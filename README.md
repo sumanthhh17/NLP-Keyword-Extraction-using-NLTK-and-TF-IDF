@@ -1,6 +1,6 @@
 # NLP Keyword Extraction using NLTK and TF-IDF
 
-A simple Natural Language Processing (NLP) project built with Python that demonstrates the complete text preprocessing pipeline and extracts important keywords using the TF-IDF (Term Frequency-Inverse Document Frequency) algorithm..
+A simple Natural Language Processing (NLP) project built with Python that demonstrates the complete text preprocessing pipeline and extracts important keywords using the TF-IDF (Term Frequency-Inverse Document Frequency) algorithm.
 
 ## 📌 Features
 
